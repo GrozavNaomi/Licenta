@@ -1,6 +1,6 @@
 
-#define BLYNK_TEMPLATE_ID "TMPL4_sEI_EIN"
-#define BLYNK_TEMPLATE_NAME "balls"
+#define BLYNK_TEMPLATE_ID "TMPL4vdcxUqfr"
+#define BLYNK_TEMPLATE_NAME "Proiect Desenare"
 #define BLYNK_AUTH_TOKEN "m5QVJ5rMzzuAlNCTJYTQctA-l7qkYH7a"
 
 #include "Drawings.hpp"
@@ -13,8 +13,8 @@ int SelectedDrawing;
 int StartDrawing;
 int CanDraw;
 // login info
-String ssid = "";
-String pass = "";
+String ssid = "iPhone - Tiberiu";
+String pass = "abc123-nao";
 // Strings to hold the Gcode for each drawing
 
 // Init function specific to arduino
